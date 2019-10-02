@@ -1,4 +1,4 @@
-# vuetify-test
+# vuetify2-storybook
 
 ## Project setup
 ```
