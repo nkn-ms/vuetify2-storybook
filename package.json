@@ -13,7 +13,7 @@
     "core-js": "^2.6.5",
     "eslint-utils": "^1.4.2",
     "fibers": "^4.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "storybook": "^5.1.11",
     "vue": "^2.6.10",
     "vuetify": "^2.1.0"
